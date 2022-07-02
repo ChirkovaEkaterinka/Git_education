@@ -63,3 +63,7 @@ c=a+b;
 - CD - change directory
 
 Назад вернуться в папку командой *cd..*
+
+# Как передеать информацию на свой GitHub?
+- Для начала регистрируемся на [github](github.com)
+- Вводим команды *git remote add origin* , далее *git branch -M main* и *git push -u origin main* 
